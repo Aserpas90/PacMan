@@ -1,5 +1,5 @@
 # PACMAN
-<img src="PacMan1.png">
+<.img src="PacMan1.png">
 
 ## [DESCRIPTION]
 
